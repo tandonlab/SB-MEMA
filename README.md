@@ -11,7 +11,9 @@ Install instructions assume OSX architecture with /bin/tcsh terminal.
 
 # Citations
 - Category Specific Spatial Dissociations of Parallel Processes Underlying Visual Naming. Conner CR et al. (Cerebral Cortex 2014) 
+
 https://doi.org/10.1093/cercor/bht130
+
 - Surface-based mixed effects multilevel analysis of grouped human electrocorticography. Kadipasaoglu CM et al. (NeuroImage 2014) 
 https://doi.org/10.1016/j.neuroimage.2014.07.006
 - Development of grouped icEEG for the study of cognitive processing. Kadipasaoglu CM et al. (Frontiers Psych 2015) 
